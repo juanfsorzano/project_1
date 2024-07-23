@@ -37,6 +37,49 @@ Exploratory Data Analysis
 - Market Benchmarking
   Compare real properties against market ADRs to identify pricing opportunities.
 
+Project Management Milestones
+
+1. Data Collection
+  Scrape and store data from short-term rental platforms.
+
+2. Market Analysis
+   Benchmark real properties against market trends.
+
+3. Strategy Development
+  Create pricing strategies based on data insights.
+
+4. Feature Exploration
+  Analyze impact of features like "Guest Favorite" on pricing.
+
+Overcoming Major Obstacles
+
+- Persistence
+  Overcame 1000+ failed runs through continuous code refinement and debugging.
+
+- Complex Scraping
+  Developed advanced techniques to extract data from challenging website structures.
+
+- Managing TIME data 
+  Next 10 moths from now! How can you make your bot truly dynamique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
