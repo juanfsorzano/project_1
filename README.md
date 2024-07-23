@@ -62,6 +62,28 @@ Overcoming Major Obstacles
 - Managing TIME data 
   Next 10 moths from now! How can you make your bot truly dynamique
 
+PRICEBOT: Empowering Hosts, Maximizing Returns
+
+- Customer Satisfaction
+  Increased returns for owners, higher commissions for hosts, and improved experiences with fair and competitive pricing.
+
+- Data-Driven Decisions
+  Make informed choices based on comprehensive market analysis.
+
+- Increased Profitability
+  Boost your rental income with optimized pricing strategies.
+
+  ![image](https://github.com/user-attachments/assets/5663ec6f-f7df-4c03-8163-ff1b6ddeb808)
+
+
+
+
+
+
+
+
+
+
 
 
 
